@@ -6,7 +6,7 @@ Installation
 Installation
 ------------
 
-First, clone the repository `here https://github.com/ContinuumRoboticsLab/OpenTDCR-Mujoco-Internal` then
+First, clone the repository `here` then
 follow the system specific instructions.
 
 **Linux**
