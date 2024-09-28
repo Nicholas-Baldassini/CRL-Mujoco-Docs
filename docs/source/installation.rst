@@ -16,11 +16,18 @@ follow the system specific instructions.
 
 **MacOS**
 .. code-block:: console
+    python3 -m venv mujEnv
+    source mujEnv/bin/activate
+    python3 -m pip install -r requirements.txt
 
-    ...
+You may see the following error,
+
+.. code-blocks:: console
+    WARNING: Secure coding is automatically enabled for restorable state! However, not on all supported macOS versions of this application. Opt-in to secure coding explicitly by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState:
+
+This is a reported bug with the Tkiner package. Dont worry about it.
 
 **Windows**
 .. code-block:: console
 
-    ...
 
