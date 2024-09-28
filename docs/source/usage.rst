@@ -13,7 +13,6 @@ You have two options to run the application,
    ``python start.py``
 
 .. image:: ./media/main_menu.png
-  :width: 400
   :alt: Main menu image
 
 From here you may tune your simulation the way you like it. See, 
