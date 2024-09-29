@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CRLMuj'
+copyright = 'Some Copyright Law'
+author = 'CRL'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.1009'
+version = '9999.1222.0'
 
 # -- General configuration
 
