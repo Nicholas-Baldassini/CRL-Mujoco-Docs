@@ -1,6 +1,8 @@
 Usage
 =====
 
+.. _usage:
+
 Starting the application
 ----------------
 Before using, see the :ref:`Installation<Installation>` guide to get this application

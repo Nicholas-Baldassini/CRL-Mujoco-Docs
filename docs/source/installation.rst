@@ -6,7 +6,7 @@ Installation
 Installation
 ------------
 
-First, clone the repository `here` then ```cd``` into the cloned directory.
+First, clone the repository `here <https://crl.utm.utoronto.ca/>`_ then ``cd`` into the cloned directory.
 Then, follow the system specific instructions.
 
 **Linux**
@@ -51,7 +51,7 @@ chance of getting your application to work.
     Kali 2024.3 (Should work on any Similar Debian OS)
 
 
-and ```pip freeze```
+and ``pip freeze``
 
 .. code-block:: console
 
@@ -81,7 +81,7 @@ and ```pip freeze```
     MacOS Sequoia 15.0
 
 
-nd ``pip freeze```
+and ``pip freeze``
 
 .. code-block:: console
 
