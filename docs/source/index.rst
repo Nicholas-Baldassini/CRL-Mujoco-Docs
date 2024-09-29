@@ -1,6 +1,6 @@
 Welcome to CRL's Mujoco documentation!
 ===================================
-.. image:: ./media/CRLlogo.png
+.. image:: ./media/CRLabDark.png
   :alt: CRLlogo
 
 **CRL-Mujoco** is a versatile simulation software for continuum robots. It is a series
@@ -8,7 +8,7 @@ of classes and functions written on top of the `Mujoco <https://mujoco.org/>`_ p
 It offers fast and easy configuration of robots, taskspaces and more.
 
 Check out the :ref:`Usage <usage>` section for further information, including
-how to :ref:` install <installation>` the application.
+how to :ref:`install <installation>` the application.
 
 
 
@@ -24,3 +24,5 @@ Contents
    usage
    installation
    SimulationSettings
+   Robot Simulation Model
+   Simulation Controls

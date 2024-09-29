@@ -1,5 +1,6 @@
 Simulation Settings
 =====
+.. _simSettings:
 
 Lock Robot in Place
 ----------------

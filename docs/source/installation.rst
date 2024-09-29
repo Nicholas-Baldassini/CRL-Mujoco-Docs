@@ -3,7 +3,7 @@ Installation
 
 .. _installation:
 
-Installation
+Installation Instructions
 ------------
 
 First, clone the repository `here <https://crl.utm.utoronto.ca/>`_ then ``cd`` into the cloned directory.

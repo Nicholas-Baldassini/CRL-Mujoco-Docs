@@ -17,7 +17,7 @@ You have two options to run the application,
 .. image:: ./media/main_menu.png
   :alt: Main menu image
 
-From here you may tune your simulation the way you like it. See, :ref:`Simulation Settings <Simulation Settings>`
+From here you may tune your simulation the way you like it. See, :ref:`Simulation Settings <simSettings>`
 page to find out more about what each of the settings do.
 
 **2. Headless**
