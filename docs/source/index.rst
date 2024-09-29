@@ -1,5 +1,7 @@
 Welcome to CRL's Mujoco documentation!
 ===================================
+.. image:: ./media/CRLlogo.png
+  :alt: CRLlogo
 
 **CRL-Mujoco** is a versatile simulation software for continuum robots. It is a series
 of classes and functions written on top of the `Mujoco <https://mujoco.org/>`_ physics engine.
