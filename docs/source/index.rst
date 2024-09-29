@@ -24,5 +24,5 @@ Contents
    usage
    installation
    SimulationSettings
-   Robot Simulation Model
-   Simulation Controls
+   rigidLink_model
+   controls

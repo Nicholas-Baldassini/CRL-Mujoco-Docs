@@ -15,3 +15,5 @@ TODO
 
 .. image:: ./media/RobotImage.png
   :alt: Screenshot of robot in simulation
+
+Screenshot from sim ^
