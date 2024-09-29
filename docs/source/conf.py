@@ -7,7 +7,7 @@ copyright = 'Some Copyright Law'
 author = 'CRL'
 
 release = '0.1009'
-version = '9999.1222.0'
+version = 'Version 9999.1.0'
 
 # -- General configuration
 
