@@ -6,14 +6,18 @@ Installation
 Installation Instructions
 ------------
 
-First, clone the repository `here <https://crl.utm.utoronto.ca/>`_ then ``cd`` into the cloned directory.
+First, clone the github repository `here <https://crl.utm.utoronto.ca/>`_ then ``cd`` into the cloned directory.
 Then, follow the system specific instructions.
 
-You will need ``python >=3.12`` to use the Tkinter library. If you use an earlier version, some features may not work.
+You will need ``python >=3.12`` to use the Tkinter GUI library. If you use an earlier version, some features may not work.
+
+System Specific Instructions
+------------
 
 **Linux**
 
 .. code-block:: console
+
     sudo apt install python3-tk
     virtualenv mujEnv
     source ./mujEnv/bin/activate
@@ -26,28 +30,40 @@ and run ``brew install python-tk`` before compiling a new python version. ``home
 similar to ``apt`` or ``snap`` package managers on Linux.
 
 *Recommended Steps*
-1. Install ``homebrew`` with the command found at https://brew.sh/ website. It will look something like,
+
+#. Step 1. 
+Install ``homebrew`` with the command found at https://brew.sh/ website. It will look something like,
+
 .. code-block:: console
 
     /bin/bash -c "$(curl -fsSL https://...)"
 
 Paste the command found on the website.
 
-2. Update ``homebrew``
+#. Step 2. 
+Update ``homebrew``
+
 .. code-block:: console
 
     brew update
-3. Install ``pyenv`` and ``python-tk``
+    
+#. Step 3. 
+Install ``pyenv`` and ``python-tk``
+
 .. code-block:: console
     
     brew install pyenv python-tk
 
-4. Install newer version of ``python``
+#. Step 4.
+Install newer version of ``python``
+
 .. code-block:: console
     
     pyenv install python 3.12
 
-5. Find where ``pyenv`` installed your ``python`` version,
+#. Step 5.
+Find where ``pyenv`` installed your ``python`` version,
+
 .. code-block:: console
     
     pyenv root
@@ -55,7 +71,8 @@ Paste the command found on the website.
 
 The line ``/Users/Username/.pyenv`` will likely be different on your machine.
 
-6. Install and create your virtualenv
+#. Step 6.
+Install and create your virtualenv
 
 .. code-block:: console
 

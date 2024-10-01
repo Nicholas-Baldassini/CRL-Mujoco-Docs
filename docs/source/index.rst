@@ -13,14 +13,15 @@ how to :ref:`install <installation>` the application.
 .. image:: ./media/IndexSimScreenshot.png
   :alt: Screenshot of the simulation of a robot 
 
+.. note::
+
+   This project is under active development.
+
 .. image:: ./media/WingGif.gif
    :alt: StreamPlayer
    :align: center
 
 
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
