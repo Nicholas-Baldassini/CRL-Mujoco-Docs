@@ -10,6 +10,12 @@ It offers fast and easy configuration of robots, taskspaces and more.
 Check out the :ref:`Usage <usage>` section for further information, including
 how to :ref:`install <installation>` the application.
 
+.. image:: ./media/IndexSimScreenshot.png
+  :alt: Screenshot of the simulation of a robot 
+
+.. image:: ./media/WingGif.gif
+   :alt: StreamPlayer
+   :align: center
 
 
 .. note::
