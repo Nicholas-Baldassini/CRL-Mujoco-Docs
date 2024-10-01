@@ -31,7 +31,8 @@ similar to ``apt`` or ``snap`` package managers on Linux.
 
 *Recommended Steps*
 
-#. Step 1. 
+Step 1. 
+
 Install ``homebrew`` with the command found at https://brew.sh/ website. It will look something like,
 
 .. code-block:: console
@@ -40,28 +41,32 @@ Install ``homebrew`` with the command found at https://brew.sh/ website. It will
 
 Paste the command found on the website.
 
-#. Step 2. 
+Step 2. 
+
 Update ``homebrew``
 
 .. code-block:: console
 
     brew update
-    
-#. Step 3. 
+
+Step 3. 
+
 Install ``pyenv`` and ``python-tk``
 
 .. code-block:: console
     
     brew install pyenv python-tk
 
-#. Step 4.
-Install newer version of ``python``
+Step 4.
+
+Install a newer version of ``python``
 
 .. code-block:: console
     
     pyenv install python 3.12
 
-#. Step 5.
+Step 5.
+
 Find where ``pyenv`` installed your ``python`` version,
 
 .. code-block:: console
@@ -71,7 +76,8 @@ Find where ``pyenv`` installed your ``python`` version,
 
 The line ``/Users/Username/.pyenv`` will likely be different on your machine.
 
-#. Step 6.
+Step 6.
+
 Install and create your virtualenv
 
 .. code-block:: console
@@ -134,7 +140,7 @@ and ``pip freeze``
 
     Python 3.12.6
     pip 24.2
-    macOS Sequoia 15.0 (Should work on any Similar Debian OS)
+    macOS Sequoia 15.0
 
 
 and ``pip freeze``
