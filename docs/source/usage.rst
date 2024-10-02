@@ -18,7 +18,7 @@ You have two options to run the application,
   :alt: Main menu image
 
 From here you may tune your simulation the way you like it. See, :ref:`Simulation Settings <simSettings>`
-page to find out more about what each of the settings do.
+page to find out more about what each of the settings do. To create your custom taskspace see the :ref:`Taskspace Section <taskspaceSec>``
 
 **2. Headless**
 
@@ -30,5 +30,4 @@ page to find out more about what each of the settings do.
 This method skips using the GUI and will start the application. This method may be usefull if you are,
 
 
-Tabs in the GUI
----------------
+

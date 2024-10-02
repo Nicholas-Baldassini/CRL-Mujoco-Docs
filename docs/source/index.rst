@@ -10,6 +10,8 @@ It offers fast and easy configuration of robots, taskspaces and more.
 Check out the :ref:`Usage <usage>` section for further information, including
 how to :ref:`install <installation>` the application.
 
+See more about the `Continuum Robotics Lab <https://crl.utm.utoronto.ca/>`_
+
 .. image:: ./media/IndexSimScreenshot.png
   :alt: Screenshot of the simulation of a robot 
 
@@ -28,8 +30,11 @@ Contents
 
 .. toctree::
 
+   demos
    usage
    installation
    SimulationSettings
+   taskspace
    rigidLink_model
    controls
+

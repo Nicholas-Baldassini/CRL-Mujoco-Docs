@@ -46,7 +46,7 @@ Each segment can actuate in 2 degrees of freedom.
   :alt: Small radius robot
 
 
-.. class:: center
+.. note::
 
 Two segment robot with each segment actuated in opposite directions
 
