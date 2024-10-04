@@ -79,12 +79,12 @@ Different colour scheme of the simulation. Has no effect on the physics.
 
 
 .. figure:: ./media/simSettingsMedia/Clean.png
-    :scale: 80 %
+    :scale: 30 %
 
     Clean Option (Default)
 
 .. figure:: ./media/simSettingsMedia/Cinematic.png
-    :scale: 80 %
+    :scale: 40 %
 
     Cinematic Option
 
@@ -95,12 +95,12 @@ Shape of each individual link composing the robot. ``Capsule`` is default.
 
 
 .. figure:: ./media/simSettingsMedia/Box.png
-    :scale: 80 %
+    :scale: 50 %
 
     Box shape
 
 .. figure:: ./media/simSettingsMedia/Ellipsoid.png
-    :scale: 80 %
+    :scale: 60 %
 
     Ellipsoid shape
 
