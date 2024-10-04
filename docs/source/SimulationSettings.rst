@@ -36,9 +36,6 @@ Ex. ``Radius: 0.140``
 .. image:: ./media/simSettingsMedia/SmallRadius.png
   :alt: Small radius robot
 
-.. figure:: ./media/simSettingsMedia/SmallRadius.png
-
-   This is the caption of the figure.
 
 **No. of Segments**
 ~~~~~~~~~~
@@ -53,6 +50,13 @@ Each segment can actuate in 2 degrees of freedom.
 .. note::
 
 Two segment robot with each segment actuated in opposite directions
+
+**Movement Speed**
+~~~~~~~~~~
+Changes the speed of movement. This effects the linear movement of the entire robot.
+This value describes the position delta each time you press "o" or "p" :ref:`keyboard controls <controls>`. It is recommended to 
+keep this value small to minimize collision intersections with obstacles. Lower does result in slower movement. 
+
 
 **Disable Gravity**
 ~~~~~~~~~~
@@ -71,16 +75,37 @@ Removes the floor plane.
 
 **Colour Scheme**
 ~~~~~~~~~~
-Different colour scheme of the simulation.
+Different colour scheme of the simulation. Has no effect on the physics.
 
-.. image:: ./media/simSettingsMedia/Clean.png
-  :alt: Clean version
 
-.. image:: ./media/simSettingsMedia/Cinematic.png
-  :alt: Cinematic Version
+.. figure:: ./media/simSettingsMedia/Clean.png
+    :scale: 80 %
+
+    Clean Option (Default)
+
+.. figure:: ./media/simSettingsMedia/Cinematic.png
+    :scale: 80 %
+
+    Cinematic Option
+
 
 **Shape of Links**
 ~~~~~~~~~~
+Shape of each individual link composing the robot. ``Capsule`` is default.
+
+
+.. figure:: ./media/simSettingsMedia/Box.png
+    :scale: 80 %
+
+    Box shape
+
+.. figure:: ./media/simSettingsMedia/Ellipsoid.png
+    :scale: 80 %
+
+    Ellipsoid shape
 
 **Taskspace filename**
 ~~~~~~~~~~
+The name of your taskspace file stored in ``MJCFS/taskspaces`` the default value is ``taskspace.conf`` which results in the simulation
+reading the file in ``MJCFS/taskspaces/taskspace.conf``. See the :ref:`taskspace <taskspaceSec>` section on how to create a taskspace. If you want to use an empty taskspace,
+specify an empty file.

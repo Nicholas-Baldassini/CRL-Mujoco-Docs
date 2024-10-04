@@ -1,6 +1,7 @@
 Simulation Controls
 ==========
 
+.. _controls:
 
 Arrow Keys 
 ----------------
