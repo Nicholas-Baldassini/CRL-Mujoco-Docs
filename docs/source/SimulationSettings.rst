@@ -29,11 +29,13 @@ The radius of each rigid link.
 Ex. ``Radius: 0.140``
 
 .. image:: ./media/simSettingsMedia/LargeRadius.png
+  :scale: 30 %
   :alt: Large Radius robot
 
 ``Radius: 0.035`` (Default value)
 
 .. image:: ./media/simSettingsMedia/SmallRadius.png
+  :scale: 30 %
   :alt: Small radius robot
 
 
@@ -43,13 +45,10 @@ Ex. ``Radius: 0.140``
 Number of segments making up the robot. Each segment actuates independently to the other segments. There can only be 1-6 segments.
 Each segment can actuate in 2 degrees of freedom. 
 
-.. image:: ./media/2Segment.png
-  :alt: Small radius robot
+.. figure:: ./media/simSettings/2Segment.png
+    :scale: 30 %
 
-
-.. note::
-
-Two segment robot with each segment actuated in opposite directions
+    Two segment robot with each segment actuated in opposite directions
 
 **Movement Speed**
 ~~~~~~~~~~
@@ -84,7 +83,7 @@ Different colour scheme of the simulation. Has no effect on the physics.
     Clean Option (Default)
 
 .. figure:: ./media/simSettingsMedia/Cinematic.png
-    :scale: 40 %
+    :scale: 30 %
 
     Cinematic Option
 
@@ -95,12 +94,12 @@ Shape of each individual link composing the robot. ``Capsule`` is default.
 
 
 .. figure:: ./media/simSettingsMedia/Box.png
-    :scale: 50 %
+    :scale: 30 %
 
     Box shape
 
 .. figure:: ./media/simSettingsMedia/Ellipsoid.png
-    :scale: 60 %
+    :scale: 30 %
 
     Ellipsoid shape
 

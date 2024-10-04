@@ -9,16 +9,17 @@ Taskspace Tab
 ----------------
 Your first option is to head to the taskspace tab and click...
 
-.. image:: ./media/taskspaceMedia/Taskspace1.png
-  :alt: Tasksapce in gui
 
-.. image:: ./media/taskspaceMedia/GUItaskspace.png
-  :alt: Tasksapce in gui
+.. figure:: ./media/taskspaceMedia/Taskspace1.png
+    :scale: 30 %
+
+.. figure:: ./media/taskspaceMedia/GUItaskspace.png
+    :scale: 30 %
 
 Which will result in this.
 
-.. image:: ./media/taskspaceMedia/SimTaskspace.png
-  :alt: Taskspace in sim
+.. figure:: ./media/taskspaceMedia/SimTaskspace.png
+  :scale: 30 %
 
 
 Altneratively, you can do option 2, 
