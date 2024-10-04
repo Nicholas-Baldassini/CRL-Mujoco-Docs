@@ -16,6 +16,7 @@ Your first option is to head to the taskspace tab and click...
   :alt: Tasksapce in gui
 
 Which will result in this.
+
 .. image:: ./media/taskspaceMedia/SimTaskspace.png
   :alt: Taskspace in sim
 
@@ -24,3 +25,4 @@ Altneratively, you can do option 2,
 
 Importing your Custom CAD Models
 ----------------
+MAKE UNLISTED YOUTUBE VIDEO OF CAD MODEL

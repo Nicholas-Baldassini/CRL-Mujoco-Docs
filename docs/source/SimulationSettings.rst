@@ -28,13 +28,17 @@ The radius of each rigid link.
 
 Ex. ``Radius: 0.140``
 
-.. image:: ./media/LargeRadius.png
+.. image:: ./media/simSettingsMedia/LargeRadius.png
   :alt: Large Radius robot
 
 ``Radius: 0.035`` (Default value)
 
-.. image:: ./media/SmallRadius.png
+.. image:: ./media/simSettingsMedia/SmallRadius.png
   :alt: Small radius robot
+
+.. figure:: ./media/simSettingsMedia/SmallRadius.png
+
+   This is the caption of the figure.
 
 **No. of Segments**
 ~~~~~~~~~~
@@ -67,7 +71,13 @@ Removes the floor plane.
 
 **Colour Scheme**
 ~~~~~~~~~~
+Different colour scheme of the simulation.
 
+.. image:: ./media/simSettingsMedia/Clean.png
+  :alt: Clean version
+
+.. image:: ./media/simSettingsMedia/Cinematic.png
+  :alt: Cinematic Version
 
 **Shape of Links**
 ~~~~~~~~~~
